@@ -1,0 +1,60 @@
+#menu {
+	height: 2%;
+	padding: 1%;
+	background-color: #9CF;
+	border-radius: 10px 10px 0px 0px;
+	
+}
+#menu a {
+	margin-left: 10px;
+	margin-right: 10px;
+	width: 160px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	display: inline-block;
+	background-color: #69F;
+	color: white;
+	text-align: center;
+	vertical-align: middle;
+	text-decoration: none;
+	font-size: 17px;
+	font-weight: bold;
+	border-radius: 5px 5px 5px 5px;
+}
+#menu a:hover {
+	background-color: #36F;
+}
+#container {
+	padding: 10px;
+	background-color: #CFF;
+	border-radius: 0px 0px 10px 10px;
+	min-height: 500px;
+}
+#container a {
+	color: navy;
+	font-weight: bold;
+}
+#container a:hover {
+	color: blue;
+}
+.form-input {
+	display: inline-block;
+	width: 200px;
+	vertical-align: top;
+}
+.radio-label {
+	margin-right: 20px;
+}
+.succes {
+	color: green;
+	font-weight: bold;
+}
+.echec {
+	color: red;
+	font-weight: bold;
+}
+.annonce {
+	width: 500px;
+	border: solid 1px black;
+	padding: 5px;
+}
